@@ -121,6 +121,7 @@ a {
   top: 5%;
   left: 15%;
   border-radius: 200px;
+  opacity: 0;
 }
 
 .nav {
