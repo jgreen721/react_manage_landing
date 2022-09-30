@@ -112,7 +112,7 @@ a {
 
 .hide-menu {
   transition: 0.5s ease;
-  transform: translateY(-600px) translateX(135%);
+  transform: translateY(-600px) translateX(185%);
   /* background: red; */
   /* position: absolute; */
   padding: 3em;
